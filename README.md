@@ -13,9 +13,10 @@ The "Bayesian Brain" Model aims to understand and explicate the complex processe
 _Altered Conscious Vision, Reality and Psychosis
 The focus has been on the role of precision as encoding uncertainty in hierarchical predictive coding--and how this is affected by early visual experience. The explanatory scope of this formulation is appealing due to the notion that it links neurodevelopment with Bayesian belief updating and the opportunity for false inference -- of the sort associated with positive psychotic symptoms (i.e. positive symptoms are those that add or distort the person's normal functioning; this includes delusions, hallucinations, disorganized speech -- whereas negative psychotic symptoms include restricted emotional and facial expression as well as restricted speech and verbal fluency). 
 
-A key aspect of this formulation is that it rests upon the top-down control of precision at various levels of the cortical hierarchy. In turn, this means the brain must be equipped with predictions or beliefs about precision, namely, beliefs about beliefs. 
 
-https://www.researchgate.net/profile/Ritobrato-Datta/publication/272840046/figure/fig3/AS:271778576597007@1441808470923/Summary-model-The-correlation-of-spontaneous-signals-between-cortical-visual-areas-is_W640.jpg![image](https://github.com/aliamrod/Introduction-to-Computational-Psychiatry/assets/62684338/782a3c1f-d55c-4b98-aca3-be78c69c80e3)
+
+![image](https://github.com/aliamrod/Introduction-to-Computational-Psychiatry/assets/62684338/091933b5-dfad-4639-b751-28c8e9348f96)
+
 
 Figure 01. Summary model. The correlation of spontaneous signals between cortical visual areas is influenced by both shared input signals and intrinsic neural activity. Blindness reduces shared, between-hemisphere input to visual areas, from both retinal and higher cortical sources. The signals intrinsic to hierarchical, connected visual areas therefore constitute a greater proportion of spontaneous neural activity, enhancing the relative strength of hierarchical correlation measures as compared to indirect. Congenital blindness has the additional effect of broadening between-visual-area axonal arborization and thus measured cortico-cortico receptive fields.
 

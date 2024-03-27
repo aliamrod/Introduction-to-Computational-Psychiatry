@@ -6,17 +6,37 @@ The relationship between visual loss and psychosis is complex: congenital visual
 
 
 
+
+*Bayesian Brain*
+The "Bayesian Brain" Model aims to understand and explicate the complex processes underlying perception, decision-making and learning, three fundamental areas of cognition. The Bayesian Brain Theory, a computational approach derived from the principles of Predictive Processing (PP), offers a mechanistic and mathematical formulation of these cognitive processes. This theory assumes that the brain encodes beliefs (probabilistic states) to generate predictions about sensory input, then uses prediction errors to update its beliefs. 
+
+
+ 
+
+
+
+
 Literature Review (100)
 [1] "Advances in computational understanding of mental illness". 
+
 [2 "Evaluating the Bayesian causal inference model of intentional binding through computational modeling". 
+
 [3] "Bayesian encoding and decoding as distinct perspectives on neural coding". 
+
 [4] "Late Bayesian inference in mental transformations". 
+
 [5] "Computational Neuropsychology and Bayesian Inference". 
+
 [6] "A Bayesian framework that integrates multi-omics data and gene networks predicts risk genes from schizophrenia GWAS data". 
+
 [7] "Visualizing the blind brain: brain imaging of visual field defects from early recovery to rehabilitation techniques".
+
 [8] "The NMDA Receptor and Schizophrenia: From Pathophysiology to Treatment". - 
+
 [9] "Blindness, Psychosis, and the Visual Construction of the World". 
+
 [10] "A coupled hidden Markov model for disease interactions". 
+
 [11]
 
 
